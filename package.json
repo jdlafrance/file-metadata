@@ -16,6 +16,8 @@
     "pug": "^2.0.0-alpha7",
     "url": "^0.11.0",
     "window-popup": "^1.0.1"
+  
+    
   },
   "devDependencies": {},
   "scripts": {
